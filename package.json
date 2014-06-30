@@ -1,0 +1,20 @@
+{
+  "name": "lequire",
+  "version": "0.0.1",
+  "description": "Better alternative to Node.js require",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alireza-ahmadi/lequire.git"
+  },
+  "keywords": [
+    "require",
+    "local"
+  ],
+  "author": "Alireza Ahmadi",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/alireza-ahmadi/lequire/issues"
+  },
+  "homepage": "https://github.com/alireza-ahmadi/lequire"
+}
